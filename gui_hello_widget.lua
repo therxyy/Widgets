@@ -60,7 +60,7 @@ function widget:Initialize()
 		parent = window,
 		align = "center",
 		valign = "center",
-		caption = "therxZK main branch",
+		caption = "therxZK test branch",
 		fontsize = 16,
 		textColor = {1,1,1,1},
 	}
